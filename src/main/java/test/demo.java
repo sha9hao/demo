@@ -48,7 +48,7 @@ public class demo {
         System.out.println("test");
         String[] ss = "1+2+3".split("\\+");
         System.out.println(Arrays.toString(ss));
-
+        System.out.println("hello");
     }
 
 }
